@@ -11,7 +11,7 @@ The code uses the Peng-Robinson equation of state to calculate the equilibrium p
 - Fugacity coefficient calculation
 - Generation of tables and graphs for result analysis
 
-## 🔧 Technologies Used
+## Technologies Used
 - Python 3
 - Libraries: `numpy`, `pandas`, `matplotlib`
 
